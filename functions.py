@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 def calculate_sma(data, window):
     """Calculate the Simple Moving Average (SMA) for a given window."""
@@ -18,6 +19,24 @@ def sma_crossover_strategy(data, short_window=50, long_window=200):
 # Usage
 # df = sma_crossover_strategy(df)
 
+def rsi(data, period=14):
+    """Calculate the Relative Strength Index (RSI)."""
+    delta = data['close'].diff(1)
+    gain = delta.where(delta > 0, 0)
+    loss = -delta.where(delta < 0, 0)
+    
+    # Calculate the exponential moving average for gains and losses
+    avg_gain = gain.rolling(window=period, min_periods=1).mean()
+    avg_loss = loss.rolling(window=period, min_periods=1).mean()
+    
+    rs = avg_gain / avg_loss
+    rsi = 100 - (100 / (1 + rs))
+    
+    data['RSI'] = rsi
+    return data
+
+
+
 def calculate_macd(data, short_period=12, long_period=26, signal_period=9):
     """Calculate the MACD and signal line."""
     data['ema_short'] = data['close'].ewm(span=short_period, adjust=False).mean()
@@ -28,7 +47,7 @@ def calculate_macd(data, short_period=12, long_period=26, signal_period=9):
 
     data['MACD_histogram'] = data['MACD'] - data['signal_line']
 
-    return data[['time', 'MACD', 'signal_line', 'MACD_histogram']]
+    return data
 
 # Usage
 # df = calculate_macd(df)
