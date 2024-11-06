@@ -1,0 +1,109 @@
+2024-11-05 01:32:21,354 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-11-05 01:33:35,464 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-11-05 01:34:48,573 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9375987361769352, best pos: [7.87707904e+01 4.94846557e-01 8.24990204e-03 1.05493240e+02]
+2024-11-05 01:38:54,043 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-11-05 01:40:07,835 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9383886255924171, best pos: [1.22557186e+02 3.01198287e-01 3.66380712e-03 3.53200200e+01]
+2024-11-05 02:29:12,077 - pytorch_lightning.utilities.rank_zero - INFO - GPU available: False, used: False
+2024-11-05 02:29:12,080 - pytorch_lightning.utilities.rank_zero - INFO - TPU available: False, using: 0 TPU cores
+2024-11-05 02:29:12,080 - pytorch_lightning.utilities.rank_zero - INFO - HPU available: False, using: 0 HPUs
+2024-11-05 02:31:27,760 - pytorch_lightning.utilities.rank_zero - INFO - GPU available: False, used: False
+2024-11-05 02:31:27,761 - pytorch_lightning.utilities.rank_zero - INFO - TPU available: False, using: 0 TPU cores
+2024-11-05 02:31:27,762 - pytorch_lightning.utilities.rank_zero - INFO - HPU available: False, using: 0 HPUs
+2024-11-05 02:31:27,818 - pytorch_lightning.callbacks.model_summary - INFO - 
+  | Name  | Type                      | Params | Mode 
+------------------------------------------------------------
+0 | model | TemporalFusionTransformer | 27.6 K | train
+------------------------------------------------------------
+27.6 K    Trainable params
+0         Non-trainable params
+27.6 K    Total params
+0.110     Total estimated model params size (MB)
+442       Modules in train mode
+0         Modules in eval mode
+2024-11-05 02:31:43,690 - pytorch_lightning.utilities.rank_zero - INFO - GPU available: False, used: False
+2024-11-05 02:31:43,692 - pytorch_lightning.utilities.rank_zero - INFO - TPU available: False, using: 0 TPU cores
+2024-11-05 02:31:43,693 - pytorch_lightning.utilities.rank_zero - INFO - HPU available: False, using: 0 HPUs
+2024-11-05 02:32:35,722 - pytorch_lightning.utilities.rank_zero - INFO - GPU available: False, used: False
+2024-11-05 02:32:35,725 - pytorch_lightning.utilities.rank_zero - INFO - TPU available: False, using: 0 TPU cores
+2024-11-05 02:32:35,726 - pytorch_lightning.utilities.rank_zero - INFO - HPU available: False, using: 0 HPUs
+2024-11-05 02:32:35,755 - pytorch_lightning.callbacks.model_summary - INFO - 
+  | Name  | Type                      | Params | Mode 
+------------------------------------------------------------
+0 | model | TemporalFusionTransformer | 27.6 K | train
+------------------------------------------------------------
+27.6 K    Trainable params
+0         Non-trainable params
+27.6 K    Total params
+0.110     Total estimated model params size (MB)
+442       Modules in train mode
+0         Modules in eval mode
+2024-11-05 02:33:54,540 - pytorch_lightning.utilities.rank_zero - INFO - GPU available: False, used: False
+2024-11-05 02:33:54,541 - pytorch_lightning.utilities.rank_zero - INFO - TPU available: False, using: 0 TPU cores
+2024-11-05 02:33:54,543 - pytorch_lightning.utilities.rank_zero - INFO - HPU available: False, using: 0 HPUs
+2024-11-05 02:33:54,567 - pytorch_lightning.callbacks.model_summary - INFO - 
+  | Name  | Type                      | Params | Mode 
+------------------------------------------------------------
+0 | model | TemporalFusionTransformer | 27.6 K | train
+------------------------------------------------------------
+27.6 K    Trainable params
+0         Non-trainable params
+27.6 K    Total params
+0.110     Total estimated model params size (MB)
+442       Modules in train mode
+0         Modules in eval mode
+2024-11-05 02:34:47,908 - pytorch_lightning.utilities.rank_zero - INFO - GPU available: False, used: False
+2024-11-05 02:34:47,910 - pytorch_lightning.utilities.rank_zero - INFO - TPU available: False, using: 0 TPU cores
+2024-11-05 02:34:47,911 - pytorch_lightning.utilities.rank_zero - INFO - HPU available: False, using: 0 HPUs
+2024-11-05 02:34:47,938 - pytorch_lightning.callbacks.model_summary - INFO - 
+  | Name  | Type                      | Params | Mode 
+------------------------------------------------------------
+0 | model | TemporalFusionTransformer | 27.6 K | train
+------------------------------------------------------------
+27.6 K    Trainable params
+0         Non-trainable params
+27.6 K    Total params
+0.110     Total estimated model params size (MB)
+442       Modules in train mode
+0         Modules in eval mode
+2024-11-05 02:35:26,124 - pytorch_lightning.utilities.rank_zero - INFO - GPU available: False, used: False
+2024-11-05 02:35:26,126 - pytorch_lightning.utilities.rank_zero - INFO - TPU available: False, using: 0 TPU cores
+2024-11-05 02:35:26,127 - pytorch_lightning.utilities.rank_zero - INFO - HPU available: False, using: 0 HPUs
+2024-11-05 02:35:26,158 - pytorch_lightning.callbacks.model_summary - INFO - 
+  | Name  | Type                      | Params | Mode 
+------------------------------------------------------------
+0 | model | TemporalFusionTransformer | 27.6 K | train
+------------------------------------------------------------
+27.6 K    Trainable params
+0         Non-trainable params
+27.6 K    Total params
+0.110     Total estimated model params size (MB)
+442       Modules in train mode
+0         Modules in eval mode
+2024-11-05 02:36:15,741 - pytorch_lightning.utilities.rank_zero - INFO - GPU available: False, used: False
+2024-11-05 02:36:15,743 - pytorch_lightning.utilities.rank_zero - INFO - TPU available: False, using: 0 TPU cores
+2024-11-05 02:36:15,744 - pytorch_lightning.utilities.rank_zero - INFO - HPU available: False, using: 0 HPUs
+2024-11-05 02:36:15,768 - pytorch_lightning.callbacks.model_summary - INFO - 
+  | Name  | Type                      | Params | Mode 
+------------------------------------------------------------
+0 | model | TemporalFusionTransformer | 27.6 K | train
+------------------------------------------------------------
+27.6 K    Trainable params
+0         Non-trainable params
+27.6 K    Total params
+0.110     Total estimated model params size (MB)
+442       Modules in train mode
+0         Modules in eval mode
+2024-11-05 02:37:02,022 - pytorch_lightning.utilities.rank_zero - INFO - GPU available: False, used: False
+2024-11-05 02:37:02,024 - pytorch_lightning.utilities.rank_zero - INFO - TPU available: False, using: 0 TPU cores
+2024-11-05 02:37:02,024 - pytorch_lightning.utilities.rank_zero - INFO - HPU available: False, using: 0 HPUs
+2024-11-05 02:37:02,056 - pytorch_lightning.callbacks.model_summary - INFO - 
+  | Name  | Type                      | Params | Mode 
+------------------------------------------------------------
+0 | model | TemporalFusionTransformer | 27.6 K | train
+------------------------------------------------------------
+27.6 K    Trainable params
+0         Non-trainable params
+27.6 K    Total params
+0.110     Total estimated model params size (MB)
+442       Modules in train mode
+0         Modules in eval mode
