@@ -1,0 +1,49 @@
+2024-11-18 19:48:58,430 - INFO - First tick received for EURUSD: Ask=1.05641, Bid=1.0564
+2024-11-18 19:48:58,435 - INFO - Tick occurred for EURUSD
+2024-11-18 19:48:58,494 - INFO - Prediction is Loss: Don't place trade
+2024-11-18 19:48:59,499 - INFO - New tick received for EURUSD: Ask=1.0564, Bid=1.05639
+2024-11-18 19:48:59,501 - INFO - Tick occurred for EURUSD
+2024-11-18 19:48:59,505 - WARNING - Not enough data to process
+2024-11-18 19:49:00,518 - INFO - New tick received for EURUSD: Ask=1.05641, Bid=1.0564
+2024-11-18 19:49:00,520 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:00,523 - WARNING - Not enough data to process
+2024-11-18 19:49:01,533 - INFO - New tick received for EURUSD: Ask=1.05651, Bid=1.0565
+2024-11-18 19:49:01,537 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:01,544 - WARNING - Not enough data to process
+2024-11-18 19:49:02,558 - INFO - New tick received for EURUSD: Ask=1.05656, Bid=1.05655
+2024-11-18 19:49:02,558 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:02,558 - WARNING - Not enough data to process
+2024-11-18 19:49:03,573 - INFO - New tick received for EURUSD: Ask=1.05652, Bid=1.05651
+2024-11-18 19:49:03,576 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:03,576 - WARNING - Not enough data to process
+2024-11-18 19:49:04,601 - INFO - New tick received for EURUSD: Ask=1.05659, Bid=1.05658
+2024-11-18 19:49:04,604 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:04,610 - WARNING - Not enough data to process
+2024-11-18 19:49:04,613 - INFO - New tick received for EURUSD: Ask=1.05662, Bid=1.05661
+2024-11-18 19:49:04,613 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:04,620 - WARNING - Not enough data to process
+2024-11-18 19:49:07,658 - INFO - New tick received for EURUSD: Ask=1.05656, Bid=1.05655
+2024-11-18 19:49:07,658 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:07,666 - WARNING - Not enough data to process
+2024-11-18 19:49:10,707 - INFO - New tick received for EURUSD: Ask=1.05651, Bid=1.0565
+2024-11-18 19:49:10,709 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:10,714 - WARNING - Not enough data to process
+2024-11-18 19:49:17,791 - INFO - New tick received for EURUSD: Ask=1.05655, Bid=1.05654
+2024-11-18 19:49:17,794 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:17,798 - WARNING - Not enough data to process
+2024-11-18 19:49:19,803 - INFO - New tick received for EURUSD: Ask=1.05656, Bid=1.05655
+2024-11-18 19:49:19,805 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:19,805 - WARNING - Not enough data to process
+2024-11-18 19:49:21,841 - INFO - New tick received for EURUSD: Ask=1.05655, Bid=1.05654
+2024-11-18 19:49:21,841 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:21,841 - WARNING - Not enough data to process
+2024-11-18 19:49:22,856 - INFO - New tick received for EURUSD: Ask=1.05654, Bid=1.05653
+2024-11-18 19:49:22,858 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:22,863 - WARNING - Not enough data to process
+2024-11-18 19:49:23,871 - INFO - New tick received for EURUSD: Ask=1.05649, Bid=1.05648
+2024-11-18 19:49:23,871 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:23,876 - WARNING - Not enough data to process
+2024-11-18 19:49:24,886 - INFO - New tick received for EURUSD: Ask=1.05644, Bid=1.05643
+2024-11-18 19:49:24,889 - INFO - Tick occurred for EURUSD
+2024-11-18 19:49:24,893 - WARNING - Not enough data to process
+2024-11-18 19:49:26,908 - INFO - Tick check process interrupted by user.
